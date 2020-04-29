@@ -1,4 +1,4 @@
-var lengthOfLongestSubstring = function(s) {
+const lengthOfLongestSubstring = (s) => {
   let answer = []
   let max = 0
   let curr = 0
